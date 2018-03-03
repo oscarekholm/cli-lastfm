@@ -1,7 +1,7 @@
 # cli-lastm
 
 🎧 A simple Nodejs cli for getting a user's currently playing song from
-Lastfm🎧
+Lastfm 🎧
 
 Basically a small cli wrapper on top of [`last-fm`](https://www.npmjs.com/package/lastfm).
 
